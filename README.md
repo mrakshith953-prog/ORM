@@ -1,5 +1,5 @@
 # Ex01 Django ORM Web Application
-## Date: 
+## Date: 18/05/2026
 
 ## AIM
 To develop a Django application to manage an online food delivery platform like Zomato/Swiggy using Object Relational Mapping (ORM).
@@ -50,13 +50,13 @@ class Car(models.Model):
     def str(self):
         return f"{self.manufacturer} {self.model_name} ({self.year})"
 
-        ```
+```
 
 
 
 ## OUTPUT
 
-![alt text](image-1.png)
+<img width="1368" height="868" alt="image" src="https://github.com/user-attachments/assets/4a580721-ecc4-4aa9-ba11-5f703abba1c9" />
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
